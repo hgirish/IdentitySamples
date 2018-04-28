@@ -1,0 +1,20 @@
+﻿[
+  {
+    "UserName": "alice",
+    "Email": "alice@example.com",
+    "Password": "Pass123$",
+    "Roles": [ "Users" ]
+  },
+  {
+    "UserName": "bob",
+    "Email": "bob@example.com",
+    "Password": "Pass123$",
+    "Roles": [ "Users" ]
+  },
+  {
+    "UserName": "admin",
+    "Email": "admin@example.com",
+    "Password": "Pass123$",
+    "Roles": [ "Admin" ]
+  }
+]
